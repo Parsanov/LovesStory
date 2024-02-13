@@ -1,0 +1,72 @@
+body{
+    background-image: url("Hearts.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.conteiner{
+    max-width: 400px;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.buttons-navigations{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px 0 50px;
+}
+
+.buttons-navigations button{
+    background: none;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+
+    background-color: #c23e5d;
+    color: white;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.image-kiss{
+    border-radius: 15px;
+    max-width: 350px;  
+
+    position:relative;
+    left: 50%;
+    transform: translate(-50%);
+
+}
+
+.buttons-navigations button:hover{
+    background-color: #d9486a;
+    transition: 0.25s ease;
+}
+
+.text-Love{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+@media screen  and (max-width: 500px){
+    .text-Love{
+        font-size: 24px;
+    }
+    .main-images{
+        width: 200px;
+    }
+}
