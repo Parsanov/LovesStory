@@ -3,7 +3,11 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
-  background-attachment: fixed;
+    background-attachment: fixed;
+
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: 400;
 }
 
 .conteiner{
