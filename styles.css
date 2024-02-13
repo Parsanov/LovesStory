@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico:wght@700&display=swap');
 
 body{
     background-image: url("Hearts.jpg");
@@ -9,7 +9,7 @@ body{
 
   font-family: 'Pacifico', cursive;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
 }
 
 .conteiner{
@@ -37,7 +37,7 @@ body{
     background-color: #c23e5d;
     color: white;
     font-family: "Pacifico", cursive;
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
 }
 
@@ -61,7 +61,7 @@ body{
     text-align: center;
     font-size: 30px;
     font-family: "Pacifico", cursive;
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
 }
 
