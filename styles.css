@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 body{
     background-image: url("Hearts.jpg");
     background-repeat: no-repeat;
@@ -62,8 +64,6 @@ body{
     font-weight: 400;
     font-style: normal;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 
 @media screen  and (max-width: 500px){
